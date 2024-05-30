@@ -1,0 +1,17 @@
+.offcanvas-header {
+    background-color: #3f3f3f;
+    color: rgb(255, 255, 255);
+}
+
+.offcanvas-body {
+    background-color: #000000;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white !important;
+}
